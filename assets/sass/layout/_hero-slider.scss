@@ -283,7 +283,6 @@
 		left: 0;
 		top: 0;
 		z-index: -1;
-		filter: hue-rotate(290deg) !important;
 
 
 		svg{
@@ -298,11 +297,10 @@
 		top: 50%;
 		transform: translate(-50%,-50%);
 		z-index: -1;
-		filter: hue-rotate(290deg) !important;
 
 		svg{
 			circle{
-				fill:#FFE600;
+				fill:#7300ff;
 			}
 		}
 	}
@@ -311,11 +309,10 @@
 		right: 0;
 		top: 0;
 		z-index: -1;
-		filter: hue-rotate(290deg) !important;
 
 		svg{
 			circle{
-				fill:#48C5EA;
+				fill:#7300ff;
 			}
 		}
 	}
